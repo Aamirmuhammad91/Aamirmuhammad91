@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Father, and Developer!!
 
-- 🔭 [My Portfolio] Check my Portfolio. On which I am still Working (https://aamirmuhammad-portfolio.netlify.app/)  
+- 🔭 Check my Portfolio. On which I am still Working..[My Portfolio](https://aamirmuhammad-portfolio.netlify.app/)  
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to find a job as a Web Developer
 - 🥅 2022 Goals: Contribute to Open Source projects
