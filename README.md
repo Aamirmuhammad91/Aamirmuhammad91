@@ -3,18 +3,15 @@
 
 ## I'm a Husband, Father, and Developer!!
 
-- 🔭 Check my Portfolio. On which I am still Working..[My Portfolio](https://aamirmuhammad-portfolio.netlify.app/)  
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to find a job as a Web Developer
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to make puzzles and play table tennis
+- 🌱 I’m currently working in Hannover at TIB on the NFDI4ING project using React and Python.
+- 👯 My current project at TIB ends in March, and I am looking for a new job.
+- 🥅 2024 Goals: Learn advanced topics in Spring Boot and pass the German Language B1 exam.
+- ⚡ Fun fact: I love solving puzzles and playing table tennis.
 
 ### Connect with me:
 
-[<img align="left" alt="Aamir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aamir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aamir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aamir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,13 +36,5 @@
 
 <img align="left" alt="Aamir Github Stat's" src="https://github-readme-stats.vercel.app/api?username=Aamirmuhammad91&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/AamirMu92013308
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/aamirmuhammad91/
 [linkedin]: https://www.linkedin.com/in/aamir-muhammad-21b285113/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
