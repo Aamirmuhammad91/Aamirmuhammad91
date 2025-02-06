@@ -5,9 +5,8 @@
 
 ---
 
-- 🌱 I’m currently working in Hannover at TIB on the NFDI4ING project using React and Python.
-- 👯 My current project at TIB ends in March, and I am looking for a new job.
-- 🥅 2024 Goals: Learn advanced topics in Spring Boot and pass the German Language B1 exam.
+- 🌱 I’m currently working in Hannover at TIB on the NFDI4Energy project using React and Python.
+- 🥅 2025 Goals: Learn advanced topics in Spring.
 - ⚡ Fun fact: I love solving puzzles and playing table tennis.
 
 ---
